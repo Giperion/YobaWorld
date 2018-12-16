@@ -23,7 +23,7 @@ GameObject:
   - component: {fileID: 58766928879382824}
   - component: {fileID: 50973969176240616}
   - component: {fileID: 114046449814131362}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Yoba
   m_TagString: Untagged
   m_Icon: {fileID: 0}
